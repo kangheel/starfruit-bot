@@ -1,4 +1,4 @@
-Starfruit Bot
+# Starfruit Bot
 ---
 Starfruit Bot is a Discord bot meant to easen your Stardew Valley experience.
 
