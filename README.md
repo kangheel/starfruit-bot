@@ -9,7 +9,7 @@ Functionalities of Starfruit Bot:
   - searches the Stardew Valley wiki for 'arg'
 
 | | |
-![crop-search](https://github.com/kangheel/starfruit-bot/assets/27700068/fbb28832-9a6f-4405-b323-0802c935aa0a) | ![equipment-search](https://media.discordapp.net/attachments/1184748696215224330/1233019287288021073/image.png?ex=662b9232&is=662a40b2&hm=a732d7e183377e086ee1cdea722046f59c06fdc8521393cddb6a687ae40e87f5&=&format=webp&quality=lossless)
+| ![crop-search](https://github.com/kangheel/starfruit-bot/assets/27700068/fbb28832-9a6f-4405-b323-0802c935aa0a) | ![equipment-search](https://media.discordapp.net/attachments/1184748696215224330/1233019287288021073/image.png?ex=662b9232&is=662a40b2&hm=a732d7e183377e086ee1cdea722046f59c06fdc8521393cddb6a687ae40e87f5&=&format=webp&quality=lossless) |
 - '-wiki catalog'
   - brings up a list of pages you can view
 ![catalog](https://cdn.discordapp.com/attachments/1184748696215224330/1233020153814319134/image.png?ex=662b9301&is=662a4181&hm=a79370af9f1748c2a12fc3175603de101f8f9f6928b57166b2143804a9e83b9b&)
