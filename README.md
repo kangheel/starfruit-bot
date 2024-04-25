@@ -15,7 +15,7 @@ Functionalities of Starfruit Bot:
   - brings up a list of pages you can view
 ![catalog](https://cdn.discordapp.com/attachments/1184748696215224330/1233020153814319134/image.png?ex=662b9301&is=662a4181&hm=a79370af9f1748c2a12fc3175603de101f8f9f6928b57166b2143804a9e83b9b&)
 
-How to run your own fork of the bot:
+## How to run your own fork of the bot
 1. Prerequisites: python3, discord.py, dotenv, requests, bs4, pandas
    - install python3 first then run the following command for the packages
    - pip install 'package-name'
