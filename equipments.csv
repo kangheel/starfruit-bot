@@ -1,0 +1,31 @@
+﻿Name,Season,Unlock Method,Recipe,Recipe Cost,Products,Description
+Bee House,Spring/Summer/Fall,Farming 3,Wood(40)/Coal(8)/Iron Bar(1)/Maple Syrup(1),-,Honey,Place outside and wait for delicious honey! (Except in Winter).
+Cask,-,Final Farmhouse upgrade,Wood(20)/Hardwood(1),-,Wine/Pale Ale/Beer/Mead/Cheese/Goat Cheese,Use in the cellar to age products like wine and cheese.
+Cheese Press,-,Farming 6,Wood(45)/Stone(45)/Hardwood(10)/Copper Bar(1),-,Cheese/Goat Cheese,Turns milk into cheese.
+Dehydrator,-,Pierre's/Prize Machine,Wood(30)/Clay(2)/Fire Quartz(1),10000,Dried Mushrooms/Dried Fruit/Raisins,Place 5 pieces of fruit or edible mushrooms inside to dry them.
+Fish Smoker,-,Fish Shop/Riverland Farm/Prize Machine,Hardwood(10)/Sea Jelly(1)/River Jelly(1)/Cave Jelly(1),10000,Smoked Fish,"Place fish inside with a piece of coal to create smoked fish, which is worth double. The quality of the fish is preserved."
+Keg,-,Farming 8,Wood(30)/Copper Bar(1)/Iron Bar(1)/Oak Resin(1),-,Beer/Vinegar/Coffee/Green Tea/Juice/Mead/Pale Ale/Wine,Place a fruit or vegetable in here. Eventually it will turn into a beverage.
+Loom,-,Farming 7,Wood(60)/Fiber(30)/Pine Tar(1),-,Cloth,Turns raw wool into fine cloth.
+Mayonnaise Machine,-,Farming 2,Wood(15)/Stone(15)/Earth Crystal(1)/Copper Bar(1),-,Mayonnaise/Duck Mayonnaise/Void Mayonnaise/Dinosaur Mayonnaise,Turns eggs into mayonnaise.
+Oil Maker,-,Farming 8,Slime(50)/Hardwood(20)/Gold Bar(1),-,Truffle Oil/Oil,Makes gourmet truffle oil.
+Preserves Jar,-,Farming 4,Wood(50)/Stone(40)/Coal(8),-,Jellies and Pickles/Caviar/Aged Roe,Turns vegetables into pickles and fruit into jam.
+Bait Maker,-,Fishing 6,Iron Bar(3)/Coral(3)/Sea Urchin(1),,Bait,Place a fish inside to create targeted bait.
+Bone Mill,-,Quests#Fragments of the past/Special Order,Bone Fragment(10)/Clay(3)/Stone(20),-,Deluxe Speed-Gro/Quality Fertilizer/Speed-Gro/Tree Fertilizer,Turns bone items into fertilizers.
+Charcoal Kiln,-,Foraging 2,Wood(20)/Copper Bar(2),-,Coal,Turns 10 pieces of wood into one piece of coal.
+Crystalarium,-,Mining 9/Museum Donation/25000 Bundle,Stone(99)/Gold Bar(5)/Iridium Bar(2)/Battery Pack(1),-,Emerald/Aquamarine/Ruby/Amethyst/Topaz/Jade/Diamond/Quartz/Fire Quartz/Frozen Tear/Earth Crystal/Tigerseye/Opal/Fire Opal/Alamite/Bixite/Baryte/Aerinite/Calcite/Dolomite/Esperite/Fluorapatite/Geminite/Helvite/Jamborite/Jagoite/Kyanite/Lunarite/Malachite/Neptunite/Lemon Stone/Nekoite/Orpiment/Petrified Slime/Thunder Egg/Pyrite/Ocean Stone/Ghost Crystal/Jasper/Celestine/Marble/Sandstone/Granite/Basalt/Limestone/Soapstone/Hematite/Mudstone/Obsidian/Slate/Fairy Stone/Star Shards,Insert a gem of your choice and it will grow copies.
+Deluxe Worm Bin,-,Fishing 8,Worm Bin(1)/Moss(30),-,Deluxe Bait,Produces Deluxe Bait on a regular basis. The worms are self-sufficient.
+Furnace,-,Clint (after 1 Copper Ore),Stone(25)/Copper Ore(20),-,-,Turns ore and coal into metal bars.
+Geode Crusher,-,Quests#Cave Patrol,Gold Bar(2)/Stone(50)/Diamond(1),,-,Breaks geodes open automatically.
+Heavy Furnace,-,Mining Mastery,Furnace (2)/Iron Bar(3)/Stone(50),-,-,It's more efficient than a regular furnace. Requires 25 pieces of ore and 3 coal per use.
+Heavy Tapper,All,Qi's Secret Walnut Room,Hardwood(30)/Radioactive Bar(1),Qi Gem(20),Maple Syrup/Oak Resin/Pine Tar/Sap/Common Mushroom/Red Mushroom/Purple Mushroom/Mystic Syrup/Fiddlehead Fern,"Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper."
+Lightning Rod,Spring/Summer/Fall,Foraging 6,Iron Bar(1)/Refined Quartz(1)/Bat Wing(5),-,-,Collects energy from lightning storms and turns it into battery packs.
+Mushroom Log,-,Foraging 4,Hardwood(10)/Moss(10),-,Chanterelle/Common Mushroom/Morel/Red Mushroom/Purple Mushroom,"Grows mushrooms every so often. The more wild trees are nearby, the better it works."
+Ostrich Incubator,-,Professor Snail,Bone Fragment(50)/Hardwood(50)/Cinder Shard(20),-,Ostrich,Hatches ostrich eggs into baby ostriches. Place in a barn.
+Recycling Machine,-,Fishing 4,Wood(25)/Stone(25)/Iron Bar(1),-,Stone/Coal/Iron Ore/Wood/Torch/Cloth/Refined Quartz,Turns fishing trash into resources.
+Seed Maker,-,Farming 9,Wood(25)/Gold Bar(1)/Coal(10),-,Input plant seeds/Mixed Seeds/Ancient Seeds,Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.
+Slime Egg-Press,-,Combat 6,Coal(25)/Fire Quartz(1)/Battery Pack(1),-,Green Slime Egg/Blue Slime Egg/Red Slime Egg/Purple Slime Egg,Compresses 100 pieces of slime into a slime egg. It's a miracle of science!
+Slime Incubator,-,Combat 8,Iridium Bar(2)/Slime(100),-,Slime,Hatches slimes eggs into slimes. Allows you to raise slimes outdoors.
+Solar Panel,-,Quests#Island Ingredients,Refined Quartz(10)/Iron Bar(5)/Gold Bar(5),-,Battery Pack,Slowly generates batteries when left in the sun.
+Tapper,All,Foraging 4,Wood(40)/Copper Bar(2),-,Maple Syrup/Oak Resin/Pine Tar/Sap/Common Mushroom/Red Mushroom/Purple Mushroom/Mystic Syrup/Fiddlehead Fern,"Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!"
+Wood Chipper,-,Carpenter's Shop,-,1000,Wood/Maple Syrup/Oak Resin/Pine Tar,nsert a piece of hardwood to break it down into regular wood.
+Worm Bin,-,Fishing 4,Hardwood (15)/Gold Bar(1)/Iron Bar(1)/Fiber(50),-,Bait,Produces bait on a regular basis. The worms are self-sufficient.

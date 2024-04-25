@@ -1,0 +1,46 @@
+Name,Type,Seed,Growth,Season,XP,Energy,HP,Base,Tiller,Base Artisan,Artisan,Description
+Blue Jazz,flower,Jazz Seeds,7,Spring,10,45/63/81/117,20/28/36/52,50/62/75/100,55/68/82/110,200,280,The flower grows in a sphere to invite as many butterflies as possible.
+Carrot,vegetable,Carrot Seeds,3,Spring,8,75/105/135/195,33/47/60/87,35/43/52/70,-,-,-,"A fast-growing, colorful tuber that makes for a great snack."
+Cauliflower,vegetable,Cauliflower Seeds,12,Spring,23,75/105/135/195,33/47/60/87,175/218/262/350,192/239/288/385,393/400,550/560,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients."
+Coffee Bean,seed,Cofee Bean,10,Spring/Summer,4,-,-,15/18/22/30,-,-,150,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.
+Garlic,vegetable,Garlic Seeds,4,Spring,12,20/28/36/52,9/12/16/23,60/75/90/120,66/82/99/132,135/170,189/238,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.
+Green Bean,vegetable,Bean Starter,10,Spring,9,25/35/45/65,11/15/20/29,40/50/60/80,44/55/66/88,90/130,126/182,"A juicy little bean with a cool, crisp snap."
+Kale,vegetable,Kale Seeds,6,Spring,17,50/70/90/130,22/31/40/58,110/137/165/220,121/150/181/242,247/270,345/378,The waxy leaves are great in soups and stir fries.
+Parsnip,vegetable,Parsnip Seeds,4,Spring,8,25/35/45/65,11/15/20/29,35/43/52/70,38/47/57/77,78/120,109/168,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.
+Potato,vegetable,Potato Seeds,6,Spring,14,24/35/45/65,11/15/20/29,80/100/120/160,88/110/132/176,180/210,252/294,A widely cultivated tuber.
+Rhubarb,fruit,Rhubarb Seeds,13,Spring,26,-,-,220/275/330/440,242/302/363/484,660/825/990/1320,924/1155/1386/1848,"The stalks are extremely tart, but make a great dessert when sweetened."
+Strawberry,fruit,Strawberry Seeds,18,Spring,18,50/70/90/130,22/31/40/58,120/150/180/240,132/165/198/264,360/450/540/720/290,504/630/756/1008/406,"A sweet, juicy favorite with an appealing red color."
+Tulip,flower,Tulip Bulb,7,Spring,7,45/63/81/117,20/28/36/52,30/37/45/60,33/40/49/66,160,224,The most popular spring flower. Has a very faint sweet smell.
+Unmilled Rice,vegetable,Rice Shoot,8/(when irrigated) 6,Spring,7,3/4/5/7,1/1/2/3,30/37/45/60,33/40/49/66,67/110,93/154,Rice in its rawest form. Run this through a mill to increase the value.
+Blueberry,fruit,Blueberry Seeds,13,Summer,10,25/35/45/65,11/15/20/29,50/62/75/100,55/68/82/110,150/187/225/300/150,210/261/315/420/210,A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.
+Corn,vegetable,Corn Seeds,14,Summer/Fall,10,25/35/45/65,11/15/20/29,50/62/75/100,55/68/82/110,112/150/100,156/210/100,"One of the most popular grains. The sweet, fresh cobs are a summer favorite."
+Hops,vegetable,Hops Starter,11,Summer,6,45/63/81/117,20/28/36/52,25/31/37/50,27/34/40/55,300/375/450/600/100,420/525/630/840/140,"A bitter, tangy flower used to flavor beer."
+Hot Pepper,fruit,Pepper Seeds,5,Summer,9,13/18/23/33,5/8/10/14,40/50/60/80,44/55/66/88,120/150/180/240/130,168/210/252/336/182,Fiery hot with a hint of sweetness.
+Melon,fruit,Melon Seeds,12,Summer,27,113/158/203/293,50/71/91/131,250/312/375/500,275/343/412/550,750/937/1125/1500/550,1050/1311/1575/2100/770,"A cool, sweet summer treat."
+Poppy,flower,Poppy Seeds,7,Summer,20,45/63/81/117,20/28/36/52,140/175/210/280,154/192/231/308,380,532,"In addition to its colorful flower, the Poppy has culinary and medicinal uses."
+Radish,vegetable,Radish Seeds,6,Summer,15,45/63/81/117,20/28/36/52,90/112/135/180,99/123/148/198,202/230,282/322,A crisp and refreshing root vegetable with hints of pepper when eaten raw.
+Red Cabbage,vegetable,Red Cabbage Seeds,9,Summer,28,75/105/135/195,33/47/60/87,260/325/390/520,286/357/429/572,585/570,819/798,Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.
+Starfruit,fruit,Starfruit Seeds,13,Summer,43,125/175/225/325,56/78/101/145,750/937/1125/1500,825/1030/1237/1650,2250/2812/3375/4500/1550,3150/3936/4725/6300/2170,"An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone."
+Summer Spangle,flower,Spangle Seeds,8,Summer,15,45/63/81/117,20/28/36/52,90/112/135/180,99/123/148/198,280,392,"A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma."
+Summer Squash,vegetable,Summer Squash Seeds,6,Summer,9,63/88/113/163,28/39/50/73,45/56/67/90,-,-,-,"A curved yellow squash that is harvested while immature, and still tender."
+Sunflower,flower,Sunflower Seeds,8,Summer/Fall,14,45/63/81/117,20/28/36/52,80/100/120/160,88/110/132/176,260/100,364/100,A common misconception is that the flower turns so it's always facing the sun.
+Tomato,vegetable,Tomato,11,Summer,12,20/28/36/52,9/12/16/23,60/75/90/120,66/82/99/132,135/170,189/238,"Rich and slightly tangy, the Tomato has a wide variety of culinary uses."
+Wheat,vegetable,Wheat Seeds,4,Summer/Fall,6,-,-,25/31/37/50,27/34/40/55,200/250/300/400/100,280/350/420/560/140,One of the most widely cultivated grains. Makes a great flour for breads and cakes.
+Artichoke,vegetable,Artichoke Seeds,8,Fall,22,30/42/54/78,13/18/24/35,160/200/240/320,176/220/264/352,360/370,504/518,"The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior."
+Beet,vegetable,Beet Seeds,6,Fall,16,30/42/54/78,13/18/24/35,100/125/150/200,110/137/165/220,225/250,315/350,"A sweet and earthy root vegetable. As a bonus, the leaves make a great salad."
+Bok Choy,vegetable,Boy Choy Seeds,4,Fall,14,25/35/45/65,11/15/20/29,80/100/120/160,80/110/132/176,180/210,252/294,The leafy greens and fibrous stalks are healthy and delicious.
+Broccoli,vegetable,Broccoli Seeds,8,Fall,13,63/88/113/163,28/39/50/73,70/87/105/140,-,-,-,The flowering head of a broccoli plant. The tiny buds give it a unique texture.
+Cranberries,fruit,Cranberry Seeds,7,Fall,14,38/53/68/98,17/23/30/44,75/93/112/150,82/102/123/165,225/281/337/450/200,315/393/471/630/280,These tart red berries are a traditional winter food.
+Eggplant,vegetable,Eggplant Seeds,5,Fall,12,20/28/36/52,9/12/16/23,60/75/90/120,66/82/99/132,135/170,189/238,A rich and wholesome relative of the tomato. Delicious fried or stewed.
+Fairy Rose,flower,Fairy Seeds,12,Fall,29,45/63/81/117,20/28/36/52,290/362/435/580,319/398/478/638,680,952,An old folk legend suggests that the sweet smell of this flower attracts fairies.
+Grape,fruit,Summer Seeds (Summer)/Grape Starter (Fall),(Summer Seeds) 7/(Grape Starter) 10,Summer (Summer Seeds and Foraging)/Fall (Grape Starter),(Summer Seeds/Foraging) 7 Foraging/(Grape Starter) 14 Farming,38/53/68/98,17/23/30/44,80/100/120/160,88/110/132/176,240/300/360/480/210,336/420/504/672/294,A sweet cluster of fruit.
+Pumpkin,vegetable,Pumpkin Seeds,13,Fall,31,-,-,320/400/480/640,352/440/528/704,720/690,1008/966,"A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration."
+Yam,vegetable,Yam Seeds,10,Fall,22 Farming,45/63/81/117,20/28/36/52,160/200/240/320,176/220/264/352,360/380,504/518,A starchy tuber with a lot of culinary versatility.
+Powdermelon,fruit,Powdermelon Seeds,7,Winter,12 Farming,63/88/113/163,28/39/50/73,60/75/90/120,-,-,-,"Named for the powdery coating that forms on the surface, this melon is crisp and sweet, with a delicate flavor."
+Ancient Fruit,fruit,Ancient Seeds,28,Spring/Summer/Fall,38 Farming,-,-,550/687/825/1100,605/755/907/1210,1650/2062/2475/3300/1150,2310/2886/3465/4620/1610,It's been dormant for eons.
+Cactus Fruit,fruit,Cactus Seeds,12,All,(Foraging) 7 Foraging/(Cactus Seeds) 14 Farming/(Oasis) 0,75/105/135/195,33/47/60/87,75/93/112/150,82/102/123/165,225/281/337/450/200,315/393/471/630/280,The sweet fruit of the prickly pear cactus.
+Pineapple,fruit,Pineapple Seeds,14,(Ginger Island) All/(Valley) Summer,30 Farming,138/193/248/358,62/86/111/161,300/375/450/600,330/412/495/660,900/1125/1350/1800/650,1260/1575/1890/2520/910,A sweet and tangy tropical treat.
+Qi Fruit,fruit,Qi Bean,4,All,-,3,1,1,1,3/3/4/6/52,4/4/5/8/72,Mr. Qi has challenged you to ship 500 of these strange melons.
+Sweet Gem Berry,berry,Rare Seed,24,Fall,64 Farming,-,-,3000/3760/4500/6000,-,-,-,It's by far the sweetest thing you've ever smelled.
+Taro Root,vegetable,Taro Tuber,10/(when irrigated) 7,(Ginger Island) All/(Valley) Summer,16 Farming,38/53/68/98,17/23/30/44,100/125/150/200,110/137/165/220,225/250,315/350,This starchy root is one of the most ancient crops.
+Tea Leaves,vegetable,Tea Sapling,20,Spring/Summer/Fall,0,-,-,50,55,100/150,140/210,"The young leaves of the tea plant. Can be brewed into the popular, energizing beverage."
