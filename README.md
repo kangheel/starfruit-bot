@@ -1,5 +1,4 @@
 # Starfruit Bot
----
 Starfruit Bot is a Discord bot meant to easen your Stardew Valley experience.
 
 **Add the bot to your server:** [OAuth Link](https://discord.com/oauth2/authorize?client_id=1232793127031672904)
