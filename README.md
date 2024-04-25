@@ -7,7 +7,9 @@ Starfruit Bot is a Discord bot meant to easen your Stardew Valley experience.
 Functionalities of Starfruit Bot:
 - '-wiki arg'
   - searches the Stardew Valley wiki for 'arg'
+
 ![crop-search](https://github.com/kangheel/starfruit-bot/assets/27700068/fbb28832-9a6f-4405-b323-0802c935aa0a)
+
 ![equipment-search](https://media.discordapp.net/attachments/1184748696215224330/1233019287288021073/image.png?ex=662b9232&is=662a40b2&hm=a732d7e183377e086ee1cdea722046f59c06fdc8521393cddb6a687ae40e87f5&=&format=webp&quality=lossless)
 - '-wiki catalog'
   - brings up a list of pages you can view
