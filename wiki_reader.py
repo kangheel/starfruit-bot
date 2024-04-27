@@ -12,6 +12,7 @@ load_dotenv()
 TOKEN = os.getenv('BOT_TOKEN')
 GUILD = os.getenv('GUILD_NAME')
 PREFIX = "-"
+PREFIXES = ""
 
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
@@ -26,6 +27,15 @@ async def on_ready():
         f'{guild.name}(id: {guild.id})'
     )
     await client.change_presence(activity=discord.Game("Journey of the Prairie King"))
+    # PREFIXES = pd.read_csv('prefixes.csv', dtype = str, sep = ',')
+    # tmp = PREFIXES[PREFIXES['id'] == str(guild.id)]
+    # if tmp.empty:
+    #     PREFIXES = PREFIXES.append({str(guild.id), "-"}, ignore_index = True)
+    #     print(PREFIXES)
+    #     PREFIXES.to_csv("prefixes.csv", sep=',', index=False, encoding='utf-8')
+    #     PREFIX = '-'
+    # else:
+    #     PREFIX = tmp['prefix'].values[0]
 
 @tree.command(
     name="wiki",
